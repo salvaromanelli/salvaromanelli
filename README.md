@@ -1,4 +1,4 @@
-# Hola, soy Salvador 👋
+# Hola, soy Salva 
 
 Developer en Barcelona. Hago apps móviles con **Flutter**, paneles web con **React** y backends en **PHP** y **Python**, y construyo con IA: **Claude Code** y servidores **MCP**.
 
